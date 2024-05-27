@@ -3,7 +3,7 @@
 
 ### Languages:  HTML, CSS, JAVASCRIPT
 ### Libraries:  React, Redux, Vuex, React Native (a little)
-### Frameworks:  Vue2-3
+### Frameworks:  Vue 2
 <!---
 vergsparda/vergsparda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
