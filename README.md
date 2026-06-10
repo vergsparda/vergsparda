@@ -8,7 +8,7 @@
 |---|---|
 | **📍 Location** | Krasnodar, Russia |
 | **🚀 Work Status** | Ready to relocate • Remote work |
-| **🎂 Age** | 34 |
+| **🎂 Age** | 36 |
 | **📅 Experience** | 4 years 5 months |
 | **💰 Salary Expectations** | From 150,000 ₽ |
 
