@@ -118,7 +118,7 @@
 
 ## 💼 **Work Experience**
 
-### **NDFLka** | Middle Frontend Developer
+### **[NDFLka](https://ndflka.ru)** | Fullstack & React Native Developer
 **October 2021 — Present (5 years)** • Krasnodar, Russia
 
 > A tax-refund service. Web platform and mobile app.
